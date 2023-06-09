@@ -1,5 +1,5 @@
 {
-  "name": "projeto19-linkr-back",
+  "name": "linkr-backend",
   "version": "1.0.0",
   "description": "",
   "main": "./src/app.js",
